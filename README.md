@@ -37,7 +37,7 @@ plt.show()
 
 ### Results
 
-![Visualizing the top demand skills](Project_Section\Images\the_most_indemand_skills.png)
+![Visualizing the top demand skills](Project_Section/Images/the_most_indemand_skills.png)
 
 ### Insights
 
